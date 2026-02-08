@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="alaoula" tvg-name="Al Aoula" tvg-logo="https://en.wikipedia.org/wiki/Al_Aoula", Al Aoula
+https://www.snrtlive.ma/live/alaoula
+
+#EXTINF:-1, tvg-id="2mmonde" tvg-name="2M Monde" tvg-logo="https://en.wikipedia.org/wiki/2M_(Morocco)", 2M Monde
+https://www.2m.ma/fr/live/
+
+#EXTINF:-1, tvg-id="almaghribia" tvg-name="Al Maghribia" tvg-logo="https://en.wikipedia.org/wiki/Al_Maghribia", Al Maghribia
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd
+
+#EXTINF:-1, tvg-id="assadissa" tvg-name="Assadissa" tvg-logo="https://www.snrtlive.ma", Assadissa
+https://www.snrtlive.ma/live/assadissa
+
+#EXTINF:-1, tvg-id="arryadia" tvg-name="Arryadia" tvg-logo="https://www.snrtlive.ma", Arryadia
+https://www.snrtlive.ma/live/arryadia
+
+#EXTINF:-1, tvg-id="sloog" tvg-name="Sloog" tvg-logo="https://www.snrtlive.ma", Sloog
+https://www.snrtlive.ma/live/sloog
+
+#EXTINF:-1, tvg-id="telemaroc" tvg-name="TeleMaroc" tvg-logo="https://telemaroc.tv", TeleMaroc
+https://telemaroc.tv/live
